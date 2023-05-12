@@ -1,0 +1,19 @@
+{
+  "name": "dz_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "dz3": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "http": "^0.0.1-security",
+    "yargs": "^17.7.2"
+  }
+}
